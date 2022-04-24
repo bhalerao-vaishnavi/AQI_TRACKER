@@ -1,9 +1,9 @@
 # AQI_TRACKER
 Project Members
-Vaishnavi Bhalerao 
-Pallavi Tambe 
-Mayuresh Kalkar 
-Sahil Jadhav 
+Vaishnavi Bhalerao, 
+Pallavi Tambe, 
+Mayuresh Kalkar, 
+Sahil Jadhav,
 
 
 Project Information 
